@@ -42,6 +42,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [rbenv](https://github.com/rbenv/rbenv)
 - [chruby](https://github.com/postmodern/chruby)
 - [fry](https://github.com/terlar/fry)
+- [ruby-install](https://github.com/postmodern/ruby-install)
 
 ## Rust
 - [rsvm](https://github.com/sdepold/rsvm)
