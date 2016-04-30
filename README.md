@@ -2,15 +2,15 @@
 List of your favorite language version manager.
 
 # Summary
-- [Clojure](#Clojure)
-- [Elixir](#Elixir)
-- [Go](#Go)
-- [Java](#PHP)
-- [Node](#NodeJS)
-- [Python](#Python)
-- [PHP](#PHP)
-- [Ruby](#Ruby)
-- [Rust](#PHP)
+- [Clojure](#clojure)
+- [Elixir](#elixir)
+- [Go](#go)
+- [Java](#java)
+- [Node](#nodejs)
+- [Python](#python)
+- [PHP](#php)
+- [Ruby](#ruby)
+- [Rust](#rust)
 
 ## Clojure
 - [cljr](https://github.com/liebke/cljr)
