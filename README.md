@@ -1,5 +1,5 @@
 # LVML (language version manager list)
-List of your favorite language version manager.
+List of version manager for your favorite language.
 
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/gearnode/lvml/blob/master/CONTRIBUTING.md) first.
