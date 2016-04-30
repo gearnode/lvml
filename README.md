@@ -1,6 +1,9 @@
 # LVML (language version manager list)
 List of your favorite language version manager.
 
+
+Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard](https://github.com/gearnode/lvml/blob/master/CONTRIBUTING.md) first.
+
 # Summary
 - [Clojure](#clojure)
 - [Elixir](#elixir)
