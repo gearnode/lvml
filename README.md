@@ -2,15 +2,15 @@
 List of your favorite language version manager.
 
 # Summary
-- [Clojure](README.md#Clojure)
-- [Elixir](README.md#Elixir)
-- [Go](README.md#Go)
-- [Java](README.md#PHP)
-- [Node](README.md#NodeJS)
-- [Python](README.md#Python)
-- [PHP](README.md#PHP)
-- [Ruby](README.md#Ruby)
-- [Rust](README.md#PHP)
+- [Clojure](#Clojure)
+- [Elixir](#Elixir)
+- [Go](#Go)
+- [Java](#PHP)
+- [Node](#NodeJS)
+- [Python](#Python)
+- [PHP](#PHP)
+- [Ruby](#Ruby)
+- [Rust](#PHP)
 
 ## Clojure
 - [cljr](https://github.com/liebke/cljr)
@@ -41,4 +41,3 @@ List of your favorite language version manager.
 ## Rust
 - [rsvm](https://github.com/sdepold/rsvm)
 - [multirust](https://github.com/brson/multirust)
-
