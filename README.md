@@ -40,6 +40,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Ruby
 - [RVM](https://github.com/rvm/rvm)
 - [rbenv](https://github.com/rbenv/rbenv)
+- [chruby](https://github.com/postmodern/chruby)
 
 ## Rust
 - [rsvm](https://github.com/sdepold/rsvm)
